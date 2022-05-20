@@ -16,9 +16,8 @@ if (listaPecas.length < 10) {
     console.log("A peça deve pesar no  mínimo 100gr.")
 }
 
-let nomePeca = "Disco de Freio"
-
-if (nomePeca.length == 0 || nomePeca.length < 3  ) {
+let nomePeca = ""
+if ( nomePeca.length < 3  ) {
     console.log ("O nome da peça precisa ter ao menos 3 caracteres. ")
 }
 else {
