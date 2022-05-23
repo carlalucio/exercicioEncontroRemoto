@@ -4,4 +4,4 @@
 
 * Exercício do Encontro Remoto 2 - Uso do For, While, Do/While e For/Of (listaDeAlunos.js)
 
-* Desafio 2 - Sistema de cadastro de eventos
+* Desafio 2 - Sistema de cadastro de eventos (sistemaCadastro.js)
